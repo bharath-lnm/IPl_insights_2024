@@ -1,9 +1,9 @@
 #  CRPC10: Sports Basics: Analysis and deriving insights for the ongoing Indian Premier League 2024.
 
-## Created by - Kavin M [LinkedIn Profile](https://www.linkedin.com/in/kavin-2002m19/)
+## Created by - BHARATH L [https://www.linkedin.com/in/bharath-l-177116288/]
 
 ### Live Dashboard at Novypro [Live_link_Novypro](https://www.novypro.com/project/ipl-insights-2024-power-bi)
-### Linkeldin post for this project [Link]
+
 
 #
 ## Table of Content
@@ -145,8 +145,8 @@ Eventually, I made a list of predictions based on the acquired insights and addi
 
 I have created this interactive and intuitive dashboard or report based on the last 3 years of data. However these results and predictions may vary after extensive research and collection of more data.
 
-Created & Presented by - Kavin M
+Created & Presented by - BHARATH L
 
 Date - 04/04/2024
 
-Place - Chennai, Tamil Nadu, India
+Place - Bengaluru, Karnataka, India.
