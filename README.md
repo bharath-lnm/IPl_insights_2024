@@ -2,9 +2,6 @@
 
 ## Created by - BHARATH L [https://www.linkedin.com/in/bharath-l-177116288/]
 
-### Live Dashboard at Novypro [Live_link_Novypro](https://www.novypro.com/project/ipl-insights-2024-power-bi)
-
-
 #
 ## Table of Content
 1. [About Sports Basics](#about-sports-basics)
